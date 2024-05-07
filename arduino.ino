@@ -1,3 +1,5 @@
+#Code that is uploaded to an Arduino UNO using Arduino IDE
+
 int ledPin = 7;  
 
 void setup() {
